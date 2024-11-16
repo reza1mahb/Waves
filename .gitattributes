@@ -1,4 +1,4 @@
 *.sh text eol=lf
 *.scala text eol=lf
-* text=auto
+* text=auto876
 node/src/main/resources/swagger-ui/* linguist-vendored
